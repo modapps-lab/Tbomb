@@ -12,7 +12,7 @@ echo "{NEXT TIME USE}"
 echo "{THIS COMMAND TO START}"
 echo "(cd TBomb)"
 echo "(bash TBomb.sh)"
-sleep 1
+sleep 3
 cd TBomb
 chmod +x TBomb.sh
 ./TBomb.sh
