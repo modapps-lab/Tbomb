@@ -7,7 +7,7 @@ pkg install python -y
 git clone https://github.com/TheSpeedX/TBomb.git
 clear
 echo "///////SUBSCRIBE Mod Apps\\\\\\\\"
-echo '///////THIS IS ONLY 1 TIME BASH URL\\\\\\"
+echo "///////THIS IS ONLY 1 TIME BASH URL\\\\\\"
 echo "///////NEXT TIME USE\\\\\\\"
 echo "THIS COMMAND TO START"
 echo "cd TBomb"
