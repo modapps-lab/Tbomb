@@ -1,6 +1,6 @@
-pkg update
+pkg update -y
 pkg upgrade -y
-apt-get update
+apt-get update -y
 apt-get upgrade -y
 pkg install git -y
 pkg install python -y
