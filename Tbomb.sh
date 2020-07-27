@@ -9,17 +9,17 @@ pkg install pv -y
 git clone https://github.com/TheSpeedX/TBomb.git
 clear
 toilet "{SUBSCRIBE Mod Apps}" -f term -F border --gay | pv -qL 100	
-sleep 3
+sleep 1
 toilet "{THIS IS ONLY 1 TIME BASH URL}" -f term -F border --gay | pv -qL 100	
-sleep 3
+sleep 1
 toilet "{NEXT TIME USE}" -f term -F border --gay | pv -qL 100	
-sleep 2
+sleep 1
 toilet "{THIS COMMAND TO START}" -f term -F border --gay | pv -qL 100	
-sleep 2
+sleep 1
 toilet "cd TBomb" -f term -F border --gay | pv -qL 100	
 sleep 1
 toilet "./TBomb.sh" -f term -F border --gay | pv -qL 100	
-sleep 10
+sleep 8
 cd TBomb
 chmod +x TBomb.sh
 ./TBomb.sh
