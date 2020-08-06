@@ -10,7 +10,7 @@ git clone https://github.com/TheSpeedX/TBomb.git
 clear
 toilet "{SUBSCRIBE Mod Apps}" -f term -F border --gay | pv -qL 100	
 sleep 1
-am start-a android.intent.action.VIEW -d https://www.youtube.com/channel/UCk4J3QpAXnsDrsCgX8SnRRw
+am start -a android.intent.action.VIEW -d https://www.youtube.com/channel/UCk4J3QpAXnsDrsCgX8SnRRw
 sleep 3
 toilet "{THIS IS ONLY 1 TIME BASH URL}" -f term -F border --gay | pv -qL 100	
 sleep 1
